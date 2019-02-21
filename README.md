@@ -1,27 +1,12 @@
+# Hello Team1! 
+
 ## Welcome to your GitHub Page for [DSMHack.Design](http://dsmhack.design)! 
+- This page is using [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- It currently lives in GitHub [here](https://github.com/DavidHansen-0x454d43/2019-ghp-team-01).
 
-Please update with the goals of your project and what technologies you will be using.
+## What's this now?
 
-### Markdown
-This page is using [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+My motivation for creating these pages is give a other [DSMHack](http://dsmhack.org) 2019 teams insight into your design during the hackathon. (i.e. what challenge your are trying to solve, what technologies you're using, what kind of help you need) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+After the hackathon, you can edit this page to highlight your team and what you accomplished for your nonprofit. 
 
